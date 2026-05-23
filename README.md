@@ -1,4 +1,4 @@
-# @gauderp/meta-ads-performance-node
+# @gaud_erp/meta-ads-performance-node
 
 Paperclip plugin for Meta Ads (Marketing API): metrics cache, agent tools, and human-in-the-loop campaign actions.
 
@@ -20,7 +20,7 @@ Paperclip plugin for Meta Ads (Marketing API): metrics cache, agent tools, and h
 ### From npm (production)
 
 ```bash
-paperclipai plugin install @gauderp/meta-ads-performance-node
+paperclipai plugin install @gaud_erp/meta-ads-performance-node
 ```
 
 ### From local path (development)

@@ -1,5 +1,5 @@
 {
-  "name": "@gauderp/meta-ads-performance-node",
+  "name": "@gaud_erp/meta-ads-performance-node",
   "version": "1.0.0",
   "type": "module",
   "description": "Paperclip plugin: Meta Ads performance monitoring with human-in-the-loop approvals",

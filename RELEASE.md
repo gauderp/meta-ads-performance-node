@@ -9,17 +9,18 @@
 
 ## npm (pending credentials)
 
-Package: `@gauderp/meta-ads-performance-node@1.0.0`
+Package: `@gaud_erp/meta-ads-performance-node@1.0.0`
+
+Escopo npm alinhado aos demais plugins da org (`@gaud_erp/*`).
 
 ```bash
-npm login   # or export NPM_TOKEN with publish access to @gauderp
-npm publish --access public
-npm view @gauderp/meta-ads-performance-node version
+# Requer secret NPM_TOKEN no repo (mesmo valor de gauderp/github-manager)
+gh workflow run publish.yml -R gauderp/meta-ads-performance-node
+npm view @gaud_erp/meta-ads-performance-node version
 ```
 
 Verify install:
 
 ```bash
-npm install @gauderp/meta-ads-performance-node
-paperclipai plugin install node_modules/@gauderp/meta-ads-performance-node
+paperclipai plugin install @gaud_erp/meta-ads-performance-node
 ```
